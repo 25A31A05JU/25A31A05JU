@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I'm currently working on strengthening my Python fundamentals, practicing DSA, and building my programming skills.<br><br>👯 I'm looking to collaborate on beginner-friendly open-source projects, coding challenges, and software development projects.<br><br>🤝 I'm looking for help with problem-solving techniques, backend development best practices, and building real-world projects.<br><br>🌱 I'm currently learning Python, Data Structures & Algorithms, and core Computer Science concepts while preparing for GATE CSE 2028.<br><br>💬 Ask me about C programming, Python fundamentals, Data Structures & Algorithms, and C++.<br><br>⚡ Fun fact: I love mathematics and enjoy challenging myself with logical problems while exploring new technologies!
+🔭 I'm currently working on strengthening my Python fundamentals, practicing DSA, and building my programming skills.<br><br>👯 I'm looking to collaborate on beginner-friendly open-source projects, coding challenges, and software development projects.<br><br>🤝 I'm looking for help with problem-solving techniques, backend development best practices, and building real-world projects.<br><br>🌱 I'm currently learning Python, Data Structures & Algorithms, and core Computer Science concepts .<br><br>💬 Ask me about C programming, Python fundamentals, Data Structures & Algorithms, and C++.<br><br>⚡ Fun fact: I love mathematics and enjoy challenging myself with logical problems while exploring new technologies!
 
 
 # 💻 Tech Stack:
